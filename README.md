@@ -6,4 +6,4 @@ This repository contains the code for Section 8 of the paper
 
 by Harald Oberhauser and Alexander Schell. 
 
-(A preprint of this paper is available on arXiv.)
+(A preprint of this paper is available at https://arxiv.org/abs/2102.02876.)
