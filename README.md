@@ -2,8 +2,8 @@
 
 This repository contains the code for Section 8 of the paper
 
-*"Nonlinear Independent Component Analysis for Continuous-Time Signals"* (February 2021)
+*"Nonlinear Independent Component Analysis for Continuous-Time Signals"*
 
-by Alexander Schell and Harald Oberhauser. 
+by Harald Oberhauser and Alexander Schell. 
 
-(A preprint of this paper is available at https://arxiv.org/abs/2102.02876.)
+(A preprint of this paper is available on arXiv.)
